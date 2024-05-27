@@ -1,4 +1,4 @@
-#percobaan
+# percobaan
 ```
 
 #include <iostream>
@@ -73,7 +73,7 @@ int main() {
 
 ```
 #Praktikum PII
-```
+
 #include <iostream>
 #include <string>
 
@@ -140,7 +140,7 @@ public:
         std::cout << "Nama: " << nama << ", Umur: " << umur
                   << ", Prodi: " << prodi << ", Fakultas: " << fakultas << std::endl;
     }
-};
+}
 
 int main() {
     // Membuat objek Mahasiswa
@@ -156,8 +156,9 @@ int main() {
 }
 
 ```
-#Running Hasil Capture
-![Screenshot 2024-05-27 084650](https://github.com/RepaNurulAida/TugasAlpro/assets/156889243/7febcbae-e158-45b6-a393-fa0c1484da33)
+# Running Hasil Capture
+
+![Screenshot 2024-05-27 090619](https://github.com/RepaNurulAida/TugasAlpro/assets/156889243/185bc174-d59d-45fb-82c8-848378bc2827)
 
 
 
